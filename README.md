@@ -4,7 +4,7 @@
 Git clone https://github.com/ajaylamoria/NumberGeneratorApplication.git
 
 2. Build this application using maven
- mvn clean install
+command: mvn clean install
  
 3. Deploy this application in any server or run executing jar number-generator-0.0.1-SNAPSHOT.jar inside target folder
 command  :  java -jar number-generator-0.0.1-SNAPSHOT.jar
