@@ -1,6 +1,6 @@
 # NumberGeneratorApplication
 
-1.Clone this spring boot appliation using below command
+1.Clone this spring boot application using below command
 Git clone https://github.com/ajaylamoria/NumberGeneratorApplication.git
 
 2. Build this application using maven
